@@ -1,0 +1,6 @@
+[PROJECTS]
+Count=2
+Project0=..\SecureLock\MyProject.mcppi
+Project1=Securitas.mcppi
+[ActiveProject]
+Index=1
